@@ -80,7 +80,16 @@ So we go on iterating with BEST Depth and Best Feature: <br/>
 <h2> Confusion Matrix </h2>
 <sub>A confusion matrix is a table that is often used to describe the performance of a classification model (a model that predicts categorical outcomes). It compares the predicted labels of a model with the actual labels in the dataset.</sub>
 
+<sub>Here's how it works:</sub>
+<sub>Imagine you have a dataset with actual labels (e.g., "cat" or "dog") and predicted labels from your model.</sub>
+<sub>The confusion matrix will have rows and columns representing the actual classes and predicted classes, respectively.Each cell in the matrix represents the count (or proportion) of instances where the predicted label matches the actual label for a specific class.</sub>
 
+The four main components of a confusion matrix are:
+
+- <sub>True Positives (TP): Instances where the model correctly predicts the positive class.</sub>
+- <sub>True Negatives (TN): Instances where the model correctly predicts the negative class.</sub>
+- <sub>False Positives (FP): Instances where the model incorrectly predicts the positive class (it predicts positive, but the actual label is negative).</sub>
+- <sub>False Negatives (FN): Instances where the model incorrectly predicts the negative class (it predicts negative, but the actual label is positive).</sub>
 
 
 
