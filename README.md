@@ -31,9 +31,32 @@ Below is the code for Data Preparation in Python: <br/>
 <img src="https://i.imgur.com/23Yw6dh.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
 <br />
 
+<h2>Entropy</h2>
+<sub>Entropy, in the context of information theory, is a measure of uncertainty or randomness associated with a random variable or a probability distribution. It quantifies the amount of disorder or unpredictability in a system. The concept of entropy originates from thermodynamics, where it represents the degree of disorder in a physical system.
+</sub>
 
-<h2> GRIDSEARCH <h2>
+
+
+<sub>From SKLEARN import Tree:</sub>
+<p align="center">
+Using Decision Tree Classifier: <br/>
+<img src="https://i.imgur.com/Pj49go3.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
+<br />
+
+What is a Hyperparameter?
+
+<sub>In machine learning, a hyperparameter is a configuration setting external to the model that cannot be learned from the data. Unlike model parameters, which are learned during training, hyperparameters are set prior to training and control aspects of the learning process. They are essential for tuning the behavior of the learning algorithm and optimizing the performance of the model.</sub>
+
+
+GRIDSEARCH 
+  
 <sub>Grid search is a hyperparameter tuning technique used to systematically search for the optimal combination of hyperparameters for a machine learning model. Hyperparameters are parameters that are set before the learning process begins, such as the learning rate, regularization strength, or the number of hidden units in a neural network.</sub>
+
+- <sub>For decision trees, hyperparameters may include the maximum depth of the tree, minimum samples required to split a node, minimum samples required at each leaf node, etc.
+-  <sub>For Random Forests, hyperparameters may include the number of trees in the forest, maximum depth of each tree, minimum samples required to split a node, etc.</sub>
+-  <sub>For Gradient Boosting Machines, hyperparameters may include the learning rate, maximum depth of the trees, number of trees, etc.</sub>
+
+
 
 
 
