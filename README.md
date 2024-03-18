@@ -92,6 +92,14 @@ The four main components of a confusion matrix are:
 - <sub>False Positives (FP): Instances where the model incorrectly predicts the positive class (it predicts positive, but the actual label is negative).</sub>
 - <sub>False Negatives (FN): Instances where the model incorrectly predicts the negative class (it predicts negative, but the actual label is positive).</sub>
 
+<p align="center">
+Confusion Matrix with a Decision Tree <br/>
+<img src="https://i.imgur.com/u7nXFS0.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
+<br />
+
+
+
+
 
 
 
