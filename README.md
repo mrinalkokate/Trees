@@ -1,6 +1,7 @@
 # Trees
 
-<h2>Decision Tree Classifier<h2>
+Decision Tree Classifier
+
 <sub>Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. A tree can be seen as a piecewise constant approximation.
 The name itself suggests that it uses a flowchart like a tree structure to show the predictions that result from a series of feature-based splits. It starts with a root node and ends with a decision made by leaves.</sub>
 
@@ -90,6 +91,8 @@ The four main components of a confusion matrix are:
 - <sub>True Negatives (TN): Instances where the model correctly predicts the negative class.</sub>
 - <sub>False Positives (FP): Instances where the model incorrectly predicts the positive class (it predicts positive, but the actual label is negative).</sub>
 - <sub>False Negatives (FN): Instances where the model incorrectly predicts the negative class (it predicts negative, but the actual label is positive).</sub>
+
+
 
 
 
