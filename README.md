@@ -30,3 +30,12 @@ What it Looks Like: <br/>
 Below is the code for Data Preparation in Python: <br/>
 <img src="https://i.imgur.com/23Yw6dh.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
 <br />
+
+
+<h2> GRIDSEARCH <h2>
+<sub>Grid search is a hyperparameter tuning technique used to systematically search for the optimal combination of hyperparameters for a machine learning model. Hyperparameters are parameters that are set before the learning process begins, such as the learning rate, regularization strength, or the number of hidden units in a neural network.</sub>
+
+
+
+
+
